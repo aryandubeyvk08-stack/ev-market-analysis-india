@@ -1,5 +1,9 @@
 # 📊 EV Market Analysis & Adoption Trends in India
 
+![EV Dashboard](ev_dashboard.png.png)
+
+---
+
 ## 🚀 Overview
 
 This project analyzes Electric Vehicle (EV) adoption patterns across India using real-world data to extract business insights.
@@ -31,13 +35,16 @@ This project analyzes Electric Vehicle (EV) adoption patterns across India using
 
 ---
 
-## 📊 Sample Output
-
-![EV Dashboard](ev_dashboard.png)
-
----
-
 ## 🎯 Outcome
 
 Developed a data-driven understanding of EV market trends to support business and policy decision-making.
+
+---
+
+## 📂 Project Files
+
+* 📓 Notebook: `EV_Sales_Data_Analysis_(India).ipynb`
+* 🖼 Dashboard Image: `ev_dashboard.png.png`
+* 📦 Requirements: `requirements.txt`
+
 
