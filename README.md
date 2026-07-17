@@ -3,11 +3,6 @@
 ![EV Dashboard](ev_dashboard.png.png)
 
 ---
-# 📊 EV Market Analysis & Adoption Trends in India
-
-![EV Dashboard](ev_dashboard.png.png)
-
----
 
 ## 🎯 Business Problem
 
